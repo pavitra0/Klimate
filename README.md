@@ -31,6 +31,6 @@ A modern and user-friendly weather application that provides accurate weather in
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/weather-app.git  
-   cd weather-app
+   git clone https://github.com/pavitra0/Klimate.git  
+   cd Klimate
    
